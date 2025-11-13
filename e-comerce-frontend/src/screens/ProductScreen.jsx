@@ -84,3 +84,5 @@ const ProductScreen = ({match, history}) => {
 }
 
 export default ProductScreen
+
+

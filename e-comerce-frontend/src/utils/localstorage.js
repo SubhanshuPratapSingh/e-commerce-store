@@ -20,3 +20,5 @@ export const isLogin = () => {
 export const logout = () => {
   window.localStorage.clear()
 }
+
+

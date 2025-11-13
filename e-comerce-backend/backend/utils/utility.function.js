@@ -28,3 +28,5 @@ const verifyToken = token =>
   })
 
 module.exports = {checkPassword, newToken, verifyToken}
+
+

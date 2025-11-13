@@ -45,3 +45,5 @@ const getUser = async (req, res) => {
   res.status(200).send({user: req.user})
 }
 module.exports = {signUpUser, signInUser, getUser}
+
+

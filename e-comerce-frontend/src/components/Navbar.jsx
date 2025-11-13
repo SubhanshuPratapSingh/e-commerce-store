@@ -66,3 +66,5 @@ const Navbar = ({click}) => {
 }
 
 export default Navbar
+
+
