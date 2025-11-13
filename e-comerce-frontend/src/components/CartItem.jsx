@@ -35,3 +35,4 @@ const CartItem = ({ item, qtyChangeHandler, removeHandler }) => {
 export default CartItem;
 
 
+

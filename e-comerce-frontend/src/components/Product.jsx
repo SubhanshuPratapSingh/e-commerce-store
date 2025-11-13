@@ -24,3 +24,4 @@ const Product = ({ imageUrl, description, price, name, productId }) => {
 export default Product;
 
 
+
